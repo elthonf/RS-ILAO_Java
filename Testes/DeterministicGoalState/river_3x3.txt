@@ -1,0 +1,10 @@
+Estado: x3y2 acao: move-S custo: -434.71771546535297
+Estado: x1y3 acao: move-N custo: -6.749071554592089E15
+Estado: x3y1 acao: move-S custo: -188979.4921394156
+Estado: x1y2 acao: move-N custo: -1.552518177771385E13
+Estado: x2y1 acao: move-E custo: -8.21527330926494E7
+Estado: x1y1 acao: move-E custo: -3.5713248449271454E10
+Quantidade de estados na politica: 6
+Quantidade de estados expandidos: 8
+Quantidade Total de Estados: 9
+Tempo de execucao: 93.0 ms

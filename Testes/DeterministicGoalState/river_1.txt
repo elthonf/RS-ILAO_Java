@@ -1,0 +1,18 @@
+Estado: x1y7 acao: move-N custo: 1.3679809923743765E-18
+Estado: x3y5 acao: move-S custo: 2.651307230849896E-75
+Estado: x1y6 acao: move-N custo: 9.517698052774261E-21
+Estado: x3y4 acao: move-S custo: 1.2235361177493742E-69
+Estado: x1y5 acao: move-N custo: 5.469442371111009E-23
+Estado: x3y3 acao: move-S custo: 1.4488698335135542E-58
+Estado: x1y4 acao: move-N custo: 2.568264420287498E-25
+Estado: x3y2 acao: move-S custo: 4.948564529372277E-42
+Estado: x1y3 acao: move-N custo: 9.695250092358975E-28
+Estado: x3y1 acao: move-S custo: 1.0308621067749802E-38
+Estado: x1y2 acao: move-N custo: 2.8716604695890112E-30
+Estado: x2y1 acao: move-E custo: 1.0227978496255757E-35
+Estado: x1y1 acao: move-E custo: 6.42854072767384E-33
+Estado: x3y6 acao: move-S custo: 9.795316360543334E-85
+Quantidade de estados na politica: 14
+Quantidade de estados expandidos: 20
+Quantidade Total de Estados: 21
+Tempo de execucao: 13.0 ms

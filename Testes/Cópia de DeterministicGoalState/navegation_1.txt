@@ -1,0 +1,42 @@
+Estado: robot-at-x16y18 acao: move-east custo: 12.0
+Estado: robot-at-x14y17 acao: move-east custo: 18.0
+Estado: robot-at-x18y18 acao: move-north custo: 8.0
+Estado: robot-at-x18y19 acao: move-east custo: 6.0
+Estado: robot-at-x12y17 acao: move-east custo: 22.0
+Estado: robot-at-x20y19 acao: move-north custo: 2.0
+Estado: robot-at-x10y17 acao: move-east custo: 26.0
+Estado: robot-at-x9y17 acao: move-east custo: 28.0
+Estado: robot-at-x3y10 acao: move-north custo: 54.0
+Estado: robot-at-x3y11 acao: move-north custo: 52.0
+Estado: robot-at-x3y12 acao: move-north custo: 50.0
+Estado: robot-at-x3y13 acao: move-north custo: 48.0
+Estado: robot-at-x7y16 acao: move-east custo: 34.0
+Estado: robot-at-x3y14 acao: move-east custo: 46.0
+Estado: robot-at-x5y16 acao: move-east custo: 38.0
+Estado: robot-at-x15y18 acao: move-east custo: 14.0
+Estado: robot-at-x15y17 acao: move-north custo: 16.0
+Estado: robot-at-x17y18 acao: move-east custo: 10.0
+Estado: robot-at-x19y19 acao: move-east custo: 4.0
+Estado: robot-at-x13y17 acao: move-east custo: 20.0
+Estado: robot-at-x3y9 acao: move-north custo: 56.0
+Estado: robot-at-x11y17 acao: move-east custo: 24.0
+Estado: robot-at-x3y8 acao: move-north custo: 58.0
+Estado: robot-at-x3y7 acao: move-north custo: 60.0
+Estado: robot-at-x1y4 acao: move-east custo: 70.0
+Estado: robot-at-x1y3 acao: move-north custo: 72.0
+Estado: robot-at-x1y2 acao: move-north custo: 74.0
+Estado: robot-at-x1y1 acao: move-north custo: 76.0
+Estado: robot-at-x2y7 acao: move-east custo: 62.0
+Estado: robot-at-x2y6 acao: move-north custo: 64.0
+Estado: robot-at-x8y16 acao: move-north custo: 32.0
+Estado: robot-at-x2y5 acao: move-north custo: 66.0
+Estado: robot-at-x2y4 acao: move-north custo: 68.0
+Estado: robot-at-x6y16 acao: move-east custo: 36.0
+Estado: robot-at-x4y14 acao: move-north custo: 44.0
+Estado: robot-at-x4y15 acao: move-north custo: 42.0
+Estado: robot-at-x8y17 acao: move-east custo: 30.0
+Estado: robot-at-x4y16 acao: move-east custo: 40.0
+Quantidade de estados na politica: 38
+Quantidade de estados expandidos: 359
+Quantidade Total de Estados: 360
+Tempo de execucao: 69.0 ms
